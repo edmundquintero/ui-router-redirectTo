@@ -1,0 +1,30 @@
+{
+  "name": "ui-router-redirectTo",
+  "version": "1.0.0",
+  "authors": [
+    "https://github.com/joshuahiggins/ui-router-redirectTo/graphs/contributors"
+  ],
+  "description": "Simple state redirection for Angular UI-Router",
+  "main": "dist/ui-router-redirectTo.js",
+  "keywords": [
+    "angular",
+    "ui-router",
+    "router",
+    "redirect",
+    "state"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/joshuahiggins/ui-router-redirectTo",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "Gruntfile.js"
+  ],
+  "dependencies": {
+    "angular": ">= 1.0.8",
+    "angular-ui-router": ">= 0.2.0"
+  }
+}
